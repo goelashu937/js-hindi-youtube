@@ -5,4 +5,4 @@ console.log("ashu")//code readability matters
 
 let state;
 console.log(typeof state); // undefined
-console.log(typeof null)   // object
+console.log(typeof null);   //  object
