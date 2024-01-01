@@ -27,5 +27,4 @@ const url="https://www.google%20.com//"
  let str2=new String("my-name-is-Ashu-Goel")
  console.log(str2.split('-'))
  //splits each word on basis of '-'
- 
 
